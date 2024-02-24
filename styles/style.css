@@ -8,7 +8,7 @@ body {
   margin: 0;
   background-color: #1e1e1e;
   flex-direction: column;
-  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-family: "Inter", EB Garamond, sans-serif;
   font-weight: 400;
   box-sizing: border-box;
 }
@@ -53,7 +53,7 @@ blockquote {
   display: flex;
   align-items: flex-start;
   list-style: none;
-  font-family: "inter", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
   text-decoration: none;
   color: #F5F5F5;
@@ -103,7 +103,7 @@ blockquote {
 }
 .span {
   display: block;
-  font-family: "ebgaramondregular";
+  font-family: "EB Garamond";
 }
 
 .accent-span {
@@ -185,7 +185,7 @@ blockquote {
 }
 .reasons__header {
   /*padding: 0 20px 0 20px;*/
-  font-family: "ebgaramondmedium", serif;
+  font-family: "EB Garamond", serif;
   font-weight: normal;
   line-height: 115%;
   font-size: 28px;
@@ -195,7 +195,7 @@ blockquote {
 .reasons__header2 {
   /*padding: 0 20px 32px 20px;*/
   padding-bottom: 32px;
-  font-family: "ebgaramondmedium", serif;
+  font-family: "EB Garamond", serif;
   font-weight: normal;
   line-height: 115%;
   font-size: 28px;
@@ -205,7 +205,7 @@ blockquote {
 .reasons__cleanlist1 {
   /*padding: 0 20px 32px 20px;*/
   padding-bottom: 32px;
-  font-family: "ebgaramondregular", sans-serif;
+  font-family: "EB Garamond", sans-serif;
   font-weight: normal;
   line-height: 1.27;
   font-size: 20px;
@@ -226,7 +226,7 @@ blockquote {
 .howto__header {
   width: 360px;
   padding: 40px 20px 0 20px;
-  font-family: "ebgaramondmedium", serif;
+  font-family: "EB Garamond", serif;
   font-weight: normal;
   line-height: 115%;
   font-size: 28px;
@@ -236,7 +236,7 @@ blockquote {
 .howto__header2 {
   width: 360px;
   padding: 0 20px 0 20px;
-  font-family: "ebgaramondmedium", serif;
+  font-family: "EB Garamond", serif;
   font-weight: normal;
   line-height: 115%;
   font-size: 28px;
@@ -287,7 +287,7 @@ blockquote {
 }
 .card__title {
   padding: 8px 71px 8px 0;
-  font-family: "ebgaramondmedium", serif;
+  font-family: "EB Garamond", serif;
   font-weight: normal;
   line-height: 135%;
   font-size: 22px;
@@ -313,7 +313,7 @@ blockquote {
 }
 .card_text_title {
   padding: 20px 20px 8px 20px;
-  font-family: "ebgaramondmedium", serif;
+  font-family: "EB Garamond", serif;
   font-weight: normal;
   line-height: 135%;
   font-size: 22px;
