@@ -406,7 +406,6 @@ blockquote {
 .footer__links__menu {
   margin-left: 11px;
   font-family: "Inter", sans-serif, Arial, Helvetica, sans-serif;
-  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -434,7 +433,6 @@ blockquote {
   width: 33px;
   height: 18px;
   font-family: "Inter", sans-serif, Arial, Helvetica, sans-serif;
-  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
